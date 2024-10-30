@@ -1,0 +1,33 @@
+.bptcfedd-table-parent{
+	overflow-x: auto;
+}
+.bptcfedd-alladdtocart-wrap{
+	margin-bottom: 10px;
+}
+.bptcfedd-alladdtocart-btn{
+	position: relative;
+}
+.bptcfedd-loading span.bptcfedd-alladdtocart{
+	opacity: 0;
+}
+.bptcfedd-loading span.edd-loading{
+	opacity: 1;
+}
+.bptcfedd-download-table{
+	border-collapse: collapse;
+}
+.bptcfedd-alladdtocart-wrap .edd-cart-added-alert{
+	display: inline;
+	position: unset;
+}
+.bptcfedd-title-wrap .edd_download_title{
+	font-size: 22px;
+	margin: 0;
+}
+.bptcfedd-pagination{
+	margin-top: 15px;
+}
+.bptcfedd-table-wrap .page-numbers.next,
+.bptcfedd-table-wrap .page-numbers.prev{
+	border: none;
+}
